@@ -1,0 +1,27 @@
+body
+{
+background-color:#a66d33;
+}
+
+
+.footer
+{
+height:40px;
+width:100%;
+background-color:light gray;
+position:fixed;
+bottom:0;
+left:0
+text-align:center;
+}
+
+.form-control
+{
+width:55%;
+}
+
+.table-bordered
+{
+border-color:black;
+border-width:3px;
+}
